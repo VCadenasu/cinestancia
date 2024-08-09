@@ -1,14 +1,15 @@
 # Cinestancia
 "Descubre nuevas historias y aventuras encontrando tu próxima película favorita"
 
+<h3>Presentación del proyecto</h3>
 El presente proyecto consiste en la creación de una página web en la cual se puede realizar la consulta y recomendaciones de películas de acuerdo a diversos factores, tal como estado de ánimo, afinidad por actores, género o clasificación de las películas.
 El mismo te permite realizar una evaluación propia de la película recomendada y dejar tus propias valoraciones sobre la misma para la comunidad y dar referencias sobre la misma.
 
-<h1>USO</h1>
+<h3>USO</h3>
 
 *Espacio libre para la modificación y ejemplos de la página para su visual en el sistema*
 
-<h1>Colaboradores</h1>
+<h3>Colaboradores</h3>
 
 <ul>
     <li>Valery Armas: Documentación y Agile - organización, distribución de carga de trabajo, buena presentación de documentos, entre otros.</li>
