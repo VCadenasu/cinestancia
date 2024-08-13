@@ -23,6 +23,6 @@ Actualmente, el proyecto se encuentra en estado de ejecución y refinamiento, po
 <h3>Contactos</h3>
 
 <ul>
-    <li>Valery Armas: </li>
+    <li>Valery Armas: valery.armas1999@gmail.com</li>
     <li>Victor Cadenas: vlcadenasu@gmail.com</li>
 </ul>
